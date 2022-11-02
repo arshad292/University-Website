@@ -1,3 +1,3 @@
 # University-Website
 
-Static website using html,css & js
+Static website using html & css
